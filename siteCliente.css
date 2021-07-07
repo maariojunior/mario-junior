@@ -1,0 +1,87 @@
+#menu {
+    background-color: #fff !important;
+}
+
+.nav-link {
+    color: #314584 !important;
+    font-weight: bold;
+}
+
+.nav-link:hover {
+    color: #ff3946 !important; 
+}
+
+.nav-item {
+    margin-right: 30px;
+}
+
+.idioma {
+    color: #314584 !important;
+    font-weight: bold;
+    margin-right: 20px;
+}
+
+.btn-white-red {
+    background-color: #fff;
+    color: #ff3946;
+    border: 0px;
+    box-shadow: 0px 1px 3px 0px rgb(0 0 0 / 40%);
+    padding: 8px 25px;
+    border-radius: 2px;
+    font-weight: bold;
+}
+
+.btn-white-red:hover {
+    color: #fff;
+    background-color: #ff3946;
+}
+
+body {
+    font-family: 'Work Sans';
+}
+
+#apresentacao {
+    margin-top: 100px;
+}
+
+#apresentacao h1 {
+    color: #314584;
+    font-weight: bold;
+}
+
+#apresentacao p {
+    color: #6e757a;
+    font-size: 13px;
+    margin-top: 25px;
+    margin-bottom: 30px;
+}
+
+.btn-red-rounded {
+    background-color: #ff3946;
+    color: #fff;
+    font-weight: bold;
+    font-size: 15px;
+    border-radius: 25px;
+    border: 1px;
+    padding: 10px 30px;
+}
+
+.btn-red-rounded:hover {
+    color: #ff3946;
+    background-color: #fff;
+    border: 1px solid #ff3946;
+}
+
+.btn-white-muted {
+    background-color: #fff;
+    color: #314584;
+    border: 0px;
+}
+
+.btn-white-muted:hover {
+    text-decoration: underline;
+}
+
+#imagem01 {
+    width: 400px;
+}
